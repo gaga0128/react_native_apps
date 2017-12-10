@@ -6,6 +6,9 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 ### Open Source React Native Apps
 
+[Hide The Notch](https://github.com/MoOx/HideTheNotch) - An wallpaper app to hide the iPhone X notch
+* [iTunes Store](https://itunes.apple.com/us/app/hide-the-notch/id1312839983?ls=1&mt=8)
+
 [Pocat](https://github.com/rotembcohen/pokerBuddyApp) - Organize casual poker games
 * [Exponent](https://expo.io/@rotembcohen/pocat)
 * [iTunes Store](https://itunes.apple.com/us/app/pocat/id1277176782?ls=1&mt=8)
@@ -298,3 +301,7 @@ An unofficial Pixiv app client for Android and iOS
 [Ruk-A-Tuk](https://github.com/akilb/rukatuk-mobile) - [Google Play](https://play.google.com/store/apps/details?id=com.rukatuk.app&hl=en_GB), [iTunes](https://itunes.apple.com/us/app/ruk-a-tuk/id1273614449?ls=1&mt=8)  
 Akil Burgess  
 The official app for Ruk-A-Tuk Promotions - London's most innovative Caribbean themed parties!
+
+[Musicly](https://github.com/saru2020/Musicly) <br/> 
+[Saravanan](https://github.com/saru2020) <br/>
+React Native app/version of Noisli's core functionality! [Read more](https://medium.com/@saruiosdev/musicly-noisli-in-react-native-efd14023bd7c)
